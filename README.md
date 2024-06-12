@@ -23,8 +23,11 @@ This repository contains almost all the information of the empty letter professi
 
 ## Some Links
 
-[]: https://github.com/HAUT-AI/HAUT-Course	"河南工业大学课程攻略"
-[]: https://github.com/QSCTech/zju-icicles	"浙江大学课程攻略共享计划"
-[]: https://github.com/PKUanonym/REKCARC-TSC-UHT	"清华大学计算机系课程攻略"
-[]: https://github.com/CyC2018/CS-Notes	"技术面试必备基础知识"
+https://github.com/HAUT-AI/HAUT-Course	"河南工业大学课程攻略"
+
+https://github.com/QSCTech/zju-icicles	"浙江大学课程攻略共享计划"
+
+https://github.com/PKUanonym/REKCARC-TSC-UHT	"清华大学计算机系课程攻略"
+
+https://github.com/CyC2018/CS-Notes	"技术面试必备基础知识"
 
